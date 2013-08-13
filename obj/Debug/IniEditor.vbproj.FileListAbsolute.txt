@@ -1,0 +1,13 @@
+C:\Users\Simon\Desktop\ini2\INIEditor\bin\Debug\IniEditor.exe.config
+C:\Users\Simon\Desktop\ini2\INIEditor\bin\Debug\IniEditor.exe
+C:\Users\Simon\Desktop\ini2\INIEditor\bin\Debug\IniEditor.pdb
+C:\Users\Simon\Desktop\ini2\INIEditor\bin\Debug\IniEditor.xml
+C:\Users\Simon\Desktop\ini2\INIEditor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\Desktop\ini2\INIEditor\obj\Debug\IniEditor.Form1.resources
+C:\Users\Simon\Desktop\ini2\INIEditor\obj\Debug\IniEditor.IniEditor.resources
+C:\Users\Simon\Desktop\ini2\INIEditor\obj\Debug\IniEditor.Resources.resources
+C:\Users\Simon\Desktop\ini2\INIEditor\obj\Debug\IniEditor.VariableEditor.resources
+C:\Users\Simon\Desktop\ini2\INIEditor\obj\Debug\IniEditor.vbproj.GenerateResource.Cache
+C:\Users\Simon\Desktop\ini2\INIEditor\obj\Debug\IniEditor.exe
+C:\Users\Simon\Desktop\ini2\INIEditor\obj\Debug\IniEditor.xml
+C:\Users\Simon\Desktop\ini2\INIEditor\obj\Debug\IniEditor.pdb
